@@ -2,44 +2,13 @@
   "name": "HelloWorldJava",
   "version": "1.1.1",
   "scripts": {
-    "release": "standard-version -a",
-    "release:tags": "git push --follow-tags origin HEAD:master",
-    "postrelease": "npm run release:tags && npm run release:github && ci-publish",
-    "contributors": "(git-authors-cli && finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
-    "prerelease": "npm run update:check && npm run contributors",
-    "release:github": "conventional-github-releaser -p angular",
-    "update:check": "ncu -- --error-level 2",
-    "update": "ncu -u"
+    "release": "standard-version",
+    "release:tags": "git push --follow-tags origin master",
+    "postrelease": "npm run release:tags"
   },
   "devDependencies": {
     "automate-release": "^0.8.36",
     "npx": "^10.2.2",
-    "standard-version": "latest",
-    "@commitlint/cli": "latest",
-    "@commitlint/config-conventional": "latest",
-    "ci-publish": "latest",
-    "conventional-github-releaser": "latest",
-    "finepack": "latest",
-    "git-authors-cli": "latest",
-    "husky": "latest",
-    "lint-staged": "latest",
-    "npm-check-updates": "latest"
-  },
-  "commitlint": {
-    "extends": [
-      "@commitlint/config-conventional"
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "package.json": [
-      "finepack",
-      "git add"
-    ]
+    "standard-version": "^7.1.0"
   }
 }
