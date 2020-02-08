@@ -7,6 +7,7 @@ https://github.com/conventional-changelog/releaser-tools
 ```bash
 npm i --save-dev automate-release
 npm i --save-dev standard-version
+npm install -g conventional-github-releaser
 npm i --save-dev conventional-github-releaser
 npm run release
 ```
