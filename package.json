@@ -2,9 +2,10 @@
   "name": "HelloWorldJava",
   "version": "1.1.5",
   "scripts": {
+    "postrelease": "npm run release:tags && npm run release:github",
     "release": "standard-version",
-    "release:tags": "git push --follow-tags origin master",
-    "postrelease": "npm run release:tags"
+    "release:github": "conventional-github-releaser -p angular",
+    "release:tags": "git push --follow-tags origin master"
   },
   "devDependencies": {
     "automate-release": "^0.8.36",
