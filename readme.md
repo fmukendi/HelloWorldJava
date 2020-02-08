@@ -4,13 +4,28 @@ https://github.com/Kikobeats/automate-release
 https://github.com/conventional-changelog/standard-version
 https://github.com/conventional-changelog/releaser-tools
 
+
+
 ```bash
 npm i --save-dev automate-release
 npm i --save-dev standard-version
+# you wll need to set up a token 
+# https://github.com/settings/tokens/new
+# Setup token for cli
+# Create a new token and set your environment variable CONVENTIONAL_GITHUB_RELEASER_TOKEN to the token you just created. You can google How to set environment variable. The scopes for the token you need is public_repo or repo (if you need to access private repos). More details.
+# mukeapps_conventional-github-releaser token : d1b52ffe8559a62caa8a112af02060caa71367d9
 npm install -g conventional-github-releaser
 npm i --save-dev conventional-github-releaser
 npm run release
 ```
+
+Note: 
+- Remember to setup CONVENTIONAL_GITHUB_RELEASER_TOKEN. You can use `direnv` for declaring local development variables.
+- https://direnv.net/
+
+
+
+
 
 ```json
 {
