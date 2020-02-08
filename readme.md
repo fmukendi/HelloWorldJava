@@ -16,7 +16,6 @@ npm install -g conventional-github-releaser
 npm i --save-dev conventional-github-releaser
 npm run release
 ```
-
 Note: 
 - Remember to setup CONVENTIONAL_GITHUB_RELEASER_TOKEN
 
