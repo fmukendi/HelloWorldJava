@@ -4,7 +4,8 @@ https://github.com/Kikobeats/automate-release
 
 ```bash
 npm i --save-dev automate-release
-npx automate-release
+npm i --save-dev standard-version
+npm run release
 ```
 
 ## Determinate Next Version Based on History
