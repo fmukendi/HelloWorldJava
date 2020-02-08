@@ -8,6 +8,24 @@ npm i --save-dev standard-version
 npm run release
 ```
 
+```json
+{
+  "name": "HelloWorldJava",
+  "version": "1.1.0",
+  "scripts": {
+    "release": "standard-version",
+    "release:tags": "git push --follow-tags origin master",
+    "postrelease": "npm run release:tags"
+  },
+  "devDependencies": {
+    "automate-release": "^0.8.36",
+    "npx": "^10.2.2",
+    "standard-version": "^7.1.0"
+  }
+}
+
+```
+
 ## Determinate Next Version Based on History
 
 Now that we have a `git commit` convention, we can jump in the next thing, that will make our first release 🎉.
