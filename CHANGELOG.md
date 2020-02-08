@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.1.0](https://github.com/fmukendi/HelloWorldJava/compare/v1.0.1...v1.1.0) (2020-02-08)
+
+
+### Features
+
+* **parser:** we now have a parser \o/ ([e309c29](https://github.com/fmukendi/HelloWorldJava/commit/e309c2904f05b1ccdc1a4b73d612089d67b2f3bd))
+
 ### 1.0.1 (2020-02-08)
 
 
