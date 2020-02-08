@@ -1,0 +1,8 @@
+{
+  "name": "HelloWorldJava",
+  "version": "1.0.0",
+  "scripts": {},
+  "devDependencies": {
+    "automate-release": "^0.8.36"
+  }
+}
