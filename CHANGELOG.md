@@ -6,7 +6,30 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [2.0.12](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.11...v2.0.12) (2020-02-12)
 
+<<<<<<< ours
 ### [2.0.11](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.10...v2.0.11) (2020-02-12)
+=======
+### [2.0.11](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.3...v2.0.11) (2020-02-12)
+
+### [2.0.10](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.9...v2.0.10) (2020-02-12)
+
+### [2.0.9](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.8...v2.0.9) (2020-02-12)
+
+### [2.0.8](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.7...v2.0.8) (2020-02-12)
+
+### [2.0.7](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.6...v2.0.7) (2020-02-12)
+
+### [2.0.6](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.5...v2.0.6) (2020-02-12)
+
+### [2.0.5](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.4...v2.0.5) (2020-02-11)
+
+### [2.0.4](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.1...v2.0.4) (2020-02-11)
+
+
+### Bug Fixes
+
+* **parsing:** fixed a bug in our parser ([d46321b](https://github.com/fmukendi/HelloWorldJava/commit/d46321b5cad5f4330221b65768a7df5c4a7e90a6))
+>>>>>>> theirs
 
 ### [2.0.10](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.9...v2.0.10) (2020-02-12)
 
