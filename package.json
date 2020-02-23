@@ -1,6 +1,6 @@
 {
   "name": "HelloWorldJava",
-  "version": "2.0.68",
+  "version": "2.0.69",
   "scripts": {
     "postrelease": "npm run release:tags && npm run release:github",
     "precommit": "git add package.json package-lock.json CHANGELOG.md",
