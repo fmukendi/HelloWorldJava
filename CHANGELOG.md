@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.62](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.61...v2.0.62) (2020-02-23)
+
 ### [2.0.61](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.60...v2.0.61) (2020-02-23)
 
 ### [2.0.60](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.59...v2.0.60) (2020-02-23)
