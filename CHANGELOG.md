@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<<<<<<< HEAD
+=======
+### [2.0.22](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.21...v2.0.22) (2020-02-23)
+
+### [2.0.21](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.20...v2.0.21) (2020-02-23)
+
+### [2.0.20](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.19...v2.0.20) (2020-02-23)
+
+### [2.0.19](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.18...v2.0.19) (2020-02-23)
+
+### [2.0.18](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.17...v2.0.18) (2020-02-23)
+
+### [2.0.17](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.16...v2.0.17) (2020-02-23)
+
+>>>>>>> master
 ### [2.0.16](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.15...v2.0.16) (2020-02-23)
 
 ### [2.0.15](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.14...v2.0.15) (2020-02-12)
@@ -19,9 +34,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [2.0.12](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.11...v2.0.12) (2020-02-12)
 
-<<<<<<< ours
-### [2.0.11](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.10...v2.0.11) (2020-02-12)
-=======
 ### [2.0.11](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.3...v2.0.11) (2020-02-12)
 
 ### [2.0.10](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.9...v2.0.10) (2020-02-12)
@@ -42,7 +54,6 @@ All notable changes to this project will be documented in this file. See [standa
 ### Bug Fixes
 
 * **parsing:** fixed a bug in our parser ([d46321b](https://github.com/fmukendi/HelloWorldJava/commit/d46321b5cad5f4330221b65768a7df5c4a7e90a6))
->>>>>>> theirs
 
 ### [2.0.10](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.9...v2.0.10) (2020-02-12)
 
