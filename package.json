@@ -1,6 +1,6 @@
 {
   "name": "HelloWorldJava",
-  "version": "2.0.13",
+  "version": "2.0.15",
   "scripts": {
     "postrelease": "npm run release:tags && npm run release:github",
     "release": "standard-version",
