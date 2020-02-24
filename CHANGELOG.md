@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.80](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.79...v2.0.80) (2020-02-24)
+
+
+### Bug Fixes
+
+* **parsing:** fixed a bug in our parser ([0e33cc2](https://github.com/fmukendi/HelloWorldJava/commit/0e33cc2e59c234d25d09c237aa7b7aaf2705dded))
+
 ### [2.0.79](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.78...v2.0.79) (2020-02-24)
 
 ### [2.0.78](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.77...v2.0.78) (2020-02-24)
