@@ -159,3 +159,5 @@ export GREN_GITHUB_TOKEN=your_token_here
 
 gren release --token=[your token]
 gren release
+gren changelog --generate
+gren changelog --generate --override
