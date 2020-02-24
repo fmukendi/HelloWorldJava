@@ -146,3 +146,16 @@ A release has some tasks associated:
 - 👉 Generate a new entry in your `CHANGELOG.md`
 - 👉 Create a new specific git commit for the released version.
 - 👉 Create a new `git tag` with the version associated.
+
+---------------------------------------------------------
+
+https://www.npmjs.com/package/github-release-notes
+
+
+npm i github-release-notes
+npm install github-release-notes -g
+
+export GREN_GITHUB_TOKEN=your_token_here
+
+gren release --token=[your token]
+gren release
