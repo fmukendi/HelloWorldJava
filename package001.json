@@ -1,0 +1,18 @@
+{
+  "name": "HelloWorldJava",
+  "version": "2.0.93",
+  "scripts": {
+    "postrelease": "npm run release:tags && npm run release:github",
+    "release": "standard-version",
+    "release:github": "conventional-github-releaser -p angular",
+    "release:tags": "git push --follow-tags origin master"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "automate-release": "^0.8.37",
+    "conventional-github-releaser": "^3.1.3",
+    "generate-changelog": "^1.8.0",
+    "npx": "^10.2.2",
+    "standard-version": "^7.1.0"
+  }
+}
