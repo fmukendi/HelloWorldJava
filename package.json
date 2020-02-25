@@ -1,10 +1,10 @@
 {
   "name": "HelloWorldJava",
-  "version": "2.0.102",
+  "version": "2.0.103",
   "scripts": {
     "release": "standard-version",
     "release:tags": "git push --follow-tags origin master",
-    "postrelease": "npm run release:tags && npm run release:github"
+    "postrelease": "npm run release:tags"
   },
   "devDependencies": {},
   "dependencies": {
