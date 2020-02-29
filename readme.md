@@ -175,3 +175,7 @@ gren changelog --generate --override
 ```
 
 http://www.yamllint.com/
+
+cf apps | grep -i mukeshop-hello-world-rest-api | grep started | awk -F"started" '{print $1}'
+
+curl --silent "https://api.github.com/repos/fmukendi/HelloWorldJava/releases/latest" | jq -r .tag_name
