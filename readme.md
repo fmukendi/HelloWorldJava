@@ -161,3 +161,15 @@ gren release --token=[your token]
 gren release
 gren changelog --generate
 gren changelog --generate --override
+
+```xml
+	<build>
+		<finalName>hello-world-rest-api</finalName>
+		<plugins>
+			<plugin>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-maven-plugin</artifactId>
+			</plugin>
+		</plugins>
+	</build>
+```

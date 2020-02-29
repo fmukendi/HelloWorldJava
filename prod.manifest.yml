@@ -1,0 +1,12 @@
+---
+applications:
+- name: hello-world-rest-api
+    memory: 500MB
+    disk_quota: 500MB
+    instances: 1
+    host: hello-world-rest-api-prod
+    buildpack: java_buildpack
+
+env:
+    HOST_LCP: 'PROD'
+    SPRING_PROFILES_ACTIVE: nonsecure, dev
