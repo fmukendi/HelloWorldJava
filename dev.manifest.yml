@@ -1,8 +1,8 @@
 ---
 applications:
-- name: hello-world-rest-api
-    memory: 500MB
-    disk_quota: 500MB
+- name: mukeshop-hello-world-rest-api
+    memory: 500M
+    disk_quota: 500M
     instances: 1
     host: hello-world-rest-api
     buildpack: java_buildpack
