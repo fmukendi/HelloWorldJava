@@ -1,6 +1,6 @@
 {
   "name": "HelloWorldJava",
-  "version": "2.0.175",
+  "version": "2.0.176",
   "scripts": {
     "release": "standard-version",
     "release:tags": "git push --follow-tags origin master",
