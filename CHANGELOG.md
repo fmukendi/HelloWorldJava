@@ -2,6 +2,76 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.164](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.163...v2.0.164) (2020-02-29)
+
+### [2.0.163](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.162...v2.0.163) (2020-02-28)
+
+### [2.0.162](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.161...v2.0.162) (2020-02-27)
+
+### [2.0.161](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.160...v2.0.161) (2020-02-27)
+
+### [2.0.160](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.159...v2.0.160) (2020-02-27)
+
+### [2.0.159](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.158...v2.0.159) (2020-02-27)
+
+### [2.0.158](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.157...v2.0.158) (2020-02-26)
+
+### [2.0.157](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.156...v2.0.157) (2020-02-26)
+
+### [2.0.156](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.155...v2.0.156) (2020-02-26)
+
+### [2.0.155](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.154...v2.0.155) (2020-02-26)
+
+### [2.0.154](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.153...v2.0.154) (2020-02-26)
+
+### [2.0.153](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.152...v2.0.153) (2020-02-26)
+
+### [2.0.152](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.151...v2.0.152) (2020-02-26)
+
+### [2.0.151](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.150...v2.0.151) (2020-02-26)
+
+### [2.0.150](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.149...v2.0.150) (2020-02-26)
+
+### [2.0.149](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.148...v2.0.149) (2020-02-26)
+
+### [2.0.148](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.147...v2.0.148) (2020-02-26)
+
+### [2.0.147](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.146...v2.0.147) (2020-02-26)
+
+### [2.0.146](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.145...v2.0.146) (2020-02-26)
+
+### [2.0.145](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.144...v2.0.145) (2020-02-26)
+
+### [2.0.144](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.143...v2.0.144) (2020-02-26)
+
+### [2.0.143](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.142...v2.0.143) (2020-02-26)
+
+### [2.0.142](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.141...v2.0.142) (2020-02-26)
+
+### [2.0.141](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.140...v2.0.141) (2020-02-26)
+
+### [2.0.140](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.139...v2.0.140) (2020-02-26)
+
+### [2.0.139](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.138...v2.0.139) (2020-02-26)
+
+### [2.0.138](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.137...v2.0.138) (2020-02-26)
+
+### [2.0.137](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.136...v2.0.137) (2020-02-26)
+
+### [2.0.136](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.135...v2.0.136) (2020-02-26)
+
+### [2.0.135](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.134...v2.0.135) (2020-02-26)
+
+### [2.0.134](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.133...v2.0.134) (2020-02-26)
+
+### [2.0.133](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.132...v2.0.133) (2020-02-26)
+
+### [2.0.132](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.131...v2.0.132) (2020-02-26)
+
+### [2.0.131](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.130...v2.0.131) (2020-02-26)
+
+### [2.0.130](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.129...v2.0.130) (2020-02-26)
+
 ### [2.0.129](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.128...v2.0.129) (2020-02-26)
 
 ### [2.0.128](https://github.com/fmukendi/HelloWorldJava/compare/v2.0.127...v2.0.128) (2020-02-26)
