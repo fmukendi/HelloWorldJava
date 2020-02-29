@@ -1,12 +1,14 @@
 ---
 applications:
 - name: mukeshop-hello-world-rest-api
-    memory: 500M
-    disk_quota: 500M
-    instances: 1
-    host: hello-world-rest-api
-    buildpack: java_buildpack
+  memory: 1G
+  disk_quota: 1G
+  instances: 1
+  host: mukeapps-hello-world-rest-api-dev
+  buildpack: java_buildpack
 
 env:
-    HOST_LCP: 'DEV'
-    SPRING_PROFILES_ACTIVE: nonsecure, dev
+  HOST_LCP: 'DEV'
+  SPRING_PROFILES_ACTIVE: nonsecure, dev
+  #CORS
+  whitelistUrls: "http://localhost:3001,https://mukeshop-dev.cfapps.io"
